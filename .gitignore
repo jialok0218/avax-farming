@@ -1,7 +1,7 @@
 # Ignore environment file
 .env
 
-node_modules
-
 # Ignore wallets.txt file
 wallets.txt
+
+node_modules/
